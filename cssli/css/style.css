@@ -1,0 +1,66 @@
+/* class için -> .class-ismi {}  class birden fazla yerde kullanılabilir*/
+/* id için --> #id-bilgisi {} ve id sadece 1 tane olup 1 yerde kullanılır */
+
+/* #ozelfontsize {
+    font-size: 45px;
+}
+
+.text-red {
+    color: red;
+}
+
+.font-boyutu-16 {
+    font-size: 16px;
+}
+
+.font-boyutu-40 {
+    font-size: 40px;
+} */
+/* .ul {
+    list-style-position: inside;
+} */
+
+
+h1 {
+    font-size: 60px;
+    color: rgb(86, 129, 101);
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(14, 63, 44);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(10, 47, 33);
+}
+
+img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgba(218, 255, 255, 0.197);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url();
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+section {
+    background-color: aliceblue;
+
+}
+
+.item {
+    width: fit-content;
+    position: relative;
+}
+
+header {
+    background-color: bisque;
+}
