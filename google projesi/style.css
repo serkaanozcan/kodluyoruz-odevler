@@ -1,0 +1,65 @@
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 70%; */
+}
+
+.center-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 60.3px;
+}
+
+.center button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.card1 {
+    width: 520px;
+    height: 100px;
+    /* padding: 50px; */
+    /* margin: 50px; */
+    float: left;
+    margin-right: 10px;
+
+    /* margin-left: auto; */
+}
+
+.card2 {
+    width: 297px;
+    height: 100px;
+    /* padding: 10px; */
+    /* margin: 1px; */
+    float: left;
+    margin-right: 10px;
+
+    /* margin-left: auto; */
+}
+
+.card3 {
+    width: 520px;
+    height: 100px;
+    float: left;
+}
+
+.bg-acikyesil {
+    background-color: #7EE5DA;
+}
+
+.bg-ortayesil {
+    background-color: #70CCC2;
+}
+
+.bg-koyuyesil {
+    background-color: #62B3AA;
+}
+
+.clear {
+    clear: both;
+}
